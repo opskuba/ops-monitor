@@ -1,9 +1,9 @@
-package com.opskuba.debugger;
+package com.opskuba.monitor;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class OpsDebuggerApplication {
+public class OpsMonitorApplication {
 
 }
